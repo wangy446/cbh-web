@@ -1,0 +1,6 @@
+.bg3 {
+  position: absolute;
+  margin-top: -450px;
+  z-index:-5;
+  width: 105%;
+}

@@ -1,0 +1,56 @@
+.event-date {
+  font-style: normal;
+font-weight: 700;
+font-size: 35px;
+color: white;
+}
+
+.event-time {
+  font-style: normal;
+font-weight: 600;
+font-size: 25px;
+margin-top: 8%;
+color: white;
+}
+
+.date-time-container {
+  display: flex;
+  gap: 20px;
+}
+
+.event-title {
+  font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+color: #214450;
+width: 80%;
+}
+
+.event-info-container {
+  margin-top: -20.5%;
+}
+
+.event-container {
+  border-radius: 10px;
+  width: 40%;
+  box-sizing: border-box;
+  background-image: url('../../asset/Group\ 60.png');
+  background-repeat:no-repeat;
+  margin-bottom: 3%;
+  padding-bottom: 5%;
+  padding-left: 50px;
+}
+.event-info-container {
+  margin-top:-2%;
+  margin-left: -2%;
+}
+
+.date-time-container {
+  margin-top: -3%;
+}
+
+.event-title-link-container {
+  margin-top: -3%;
+}

@@ -1,0 +1,7 @@
+.bg4 {
+  position: absolute;
+  margin-top: -23%;
+  z-index:-5;
+  width: 105%;
+  margin-left: -5%;
+}

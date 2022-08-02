@@ -1,0 +1,51 @@
+.title {
+  margin-left: 4.5%;
+  font-style: normal;
+font-weight: 700;
+font-size: 6vw;
+line-height: 122px;
+margin-top:7%;
+color: #FFFFFF;
+}
+
+.title-button {
+
+border: 3px solid #D4EDF6;
+border-radius: 10px;
+background-color: transparent;
+padding: 15px 30px 15px 30px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 34px;
+
+color: #FFFFFF;
+margin-left: 4.5%;
+font-family: 'Montserrat';
+}
+
+.categories-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 500px;
+}
+
+.news-header {
+  margin-top: 400px;
+}
+
+.case {
+  margin-top: -200px;
+}
+
+.nav-link:checked {
+  color: white;
+}
+
+.ti-but:hover {
+    color: #214450;
+    opacity: 0.6;
+    transition: opacity 0.3s ease-in-out;
+}

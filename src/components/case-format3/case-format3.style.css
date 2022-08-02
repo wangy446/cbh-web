@@ -1,0 +1,41 @@
+
+
+.pase-case2:hover {
+  color: #214450;
+  opacity: 0.6;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.image3 {
+  width: 70%;
+}
+
+.pase-case2 {
+  text-decoration: none;
+  color:#214450;
+}
+
+.case-title {
+  font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #214450;
+width: 80%;
+}
+
+.case-slogan {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #214450;
+  width: 80%;
+}
+
+.case-container3 {
+
+  flex: 1 1 0px;
+}

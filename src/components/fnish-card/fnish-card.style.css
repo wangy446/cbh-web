@@ -1,0 +1,59 @@
+.step-card-container {
+  text-align: center;
+  width: 12%;
+  background-image: url('../../asset/Rectangle 70.png');
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
+.step-number {
+  margin-left: 38%;
+  width: 25%;
+  font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #214450;
+background-color: white;
+border-radius: 500px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.step-name {
+  font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+margin-bottom: 30%;
+}
+
+.step-title {
+  font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.step-subtitle {
+  font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+
+color: #F7F7F7;
+}

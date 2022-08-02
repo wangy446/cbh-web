@@ -1,0 +1,33 @@
+.intro {
+  display: flex;
+  align-content:center ;
+  gap: 80px;
+}
+
+.people-des {
+  align-self: center;
+}
+
+.people-des {
+  width: 60%;
+  font-weight: 500;
+font-size: 15px;
+line-height: 133.9%;
+/* or 33px */
+
+
+color: #214450;
+}
+
+.people-img {
+  width: 25%;
+}
+
+.card-container2 {
+  margin-left: 8%;
+  margin-top: 20%;
+}
+
+.intro {
+  margin-bottom: 5%;
+}

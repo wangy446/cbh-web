@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: 'Montserrat';
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+

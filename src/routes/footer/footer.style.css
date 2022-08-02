@@ -1,0 +1,35 @@
+.navigation-f {
+  margin-top: 15%;
+  margin-left: 5%;
+}
+
+.nav-link-f {
+  padding: 30px;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 24px;
+text-decoration: none;
+color: #214450;
+}
+
+.nav-links-f {
+  margin-left: 11%;
+  margin-right: 10%;
+  margin-top: -3%;
+}
+
+.nav-link-f:hover {
+  color: white;
+}
+
+.nav-link-f:checked {
+  color: black;
+}
+
+.logo-f {
+  text-align: center;
+  font-weight: 700;
+font-size: 70px;
+line-height: 122px;
+}

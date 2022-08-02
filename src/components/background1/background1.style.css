@@ -1,0 +1,7 @@
+.bg1 {
+  position: absolute;
+  margin-top: -600px;
+  z-index:-5;
+  width: 105%;
+  margin-left: -250px;
+}

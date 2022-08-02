@@ -1,0 +1,47 @@
+.blog-container {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.blog-img {
+  width: 25%;
+}
+
+.blogs {
+  width: 55%;
+}
+
+.blog-date {
+  margin-left: 85%;
+  font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+
+color: #7D7D7D;
+}
+
+.blog-title {
+  font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #214450;
+}
+
+.blog-content {
+  font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+
+color: #214450;
+}
+
+.blogs-container {
+  margin-bottom: 8%;
+}
+
+.blog-link {
+  text-decoration: none;
+}

@@ -1,0 +1,7 @@
+.bg2 {
+  position: absolute;
+  margin-top: -800px;
+  z-index:-5;
+  width: 105%;
+
+}

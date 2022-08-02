@@ -1,0 +1,17 @@
+.description2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.about-img2 {
+  width: 28%;
+}
+
+.about-descri2 {
+  width: 45%;
+  color: #214450;
+  line-height: 23px;
+  margin-left: 8%;
+  align-self: center;
+}

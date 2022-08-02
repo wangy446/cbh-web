@@ -1,0 +1,50 @@
+
+
+.pase-case:hover{
+  color: #214450;
+  opacity: 0.6;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.image10 {
+  width: 70%;
+}
+
+.pase-case,  .pase-case-title{
+  text-decoration: none;
+  color:#214450;
+}
+
+.title10 {
+  font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 30px;
+
+color: #214450;
+}
+
+.slogan10 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #214450;
+  width: 80%;
+}
+
+.pase-case-title {
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 30px;
+
+color: #214450;
+}
+
+.case-container2 {
+
+  flex: 1 1 0px;
+}

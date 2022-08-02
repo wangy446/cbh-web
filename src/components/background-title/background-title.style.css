@@ -1,0 +1,22 @@
+.bg-title, .bg-slogan {
+  text-align: center;
+}
+
+.bg-title {
+  margin-top: 5%;
+  font-style: normal;
+font-weight: 700;
+font-size: 4vw;
+line-height: 122px;;
+color: #FFFFFF;
+}
+
+.bg-slogan {
+  font-style: normal;
+font-weight: 500;
+font-size: 1vw;
+line-height: 24px;
+text-align: center;
+margin-top: -5%;
+color: #FFFFFF;
+}

@@ -1,0 +1,22 @@
+.all-step-container {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+  background-image: url('../../asset/Rectangle 71.png');
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  margin-top: 10%;
+}
+
+.step-bg {
+  position: absolute;
+  margin-top: -620px;
+  z-index:-5;
+  width: 105%;
+}
+
+.card-header {
+  margin-top: -10%;
+}

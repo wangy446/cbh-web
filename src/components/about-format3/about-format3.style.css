@@ -1,0 +1,22 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  margin-top: 20%;
+  margin-left: 5%;
+}
+
+.card-img {
+  width: 70%;
+}
+
+.card-content {
+  width: 70%;
+  text-align: center;
+  font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+text-align: center;
+
+color: #214450;
+}

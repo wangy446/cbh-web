@@ -1,0 +1,30 @@
+.navigation {
+  display: flex;
+  margin-top: 3%;
+  margin-left: 5%;
+}
+
+.nav-link {
+  padding: 30px;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 24px;
+text-decoration: none;
+color: #C8DFE8;
+}
+
+.nav-links {
+  margin: auto;
+}
+
+.nav-link:hover {
+  color: white;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.nav-link:checked {
+  color: white
+}
+
